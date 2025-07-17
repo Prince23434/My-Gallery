@@ -24,8 +24,8 @@ A responsive and stylish image gallery webpage built using HTML and CSS. It disp
 ## 📷 Screenshots
 
 <img width="1920" height="1080" alt="My Gallery and 2 more pages - Personal - Microsoft​ Edge 12_07_2025 17_55_39" src="https://github.com/user-attachments/assets/0144e1a9-7831-4074-96a4-bf99d0a864f3" />
-<img width="1920" height="1080" alt="My Gallery and 2 more pages - Personal - Microsoft​ Edge 12_07_2025 17_56_59" src="https://github.com/user-attachments/assets/ad639370-f9f0-4c55-8bbd-debbf1fbfee0" />
 <img width="1920" height="1080" alt="My Gallery and 2 more pages - Personal - Microsoft​ Edge 12_07_2025 18_20_54" src="https://github.com/user-attachments/assets/3b24012f-da00-4174-861a-817abfbb5852" />
+<img width="1920" height="1080" alt="Editing Tic-Tac-Toe_README md at master · Prince23434_Tic-Tac-Toe - Google Chrome 17_07_2025 12_56_36" src="https://github.com/user-attachments/assets/d600f353-260f-417c-863d-f171a5f0fcbf" />
 
 
 ## 🙌 Acknowledgements
